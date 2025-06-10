@@ -6,7 +6,7 @@
 |-------|
 | <img src="Images/zild-cover.png" alt="Zild Cover" width="100%"/> |
 
-| Details |
+| Zild: Echoes Under Two Moons |  
 |---------|
 | **Title**: Zild: Echoes Under Two Moons |
 | **Status**: Draft |
@@ -18,6 +18,7 @@
 | **Website**: [zild.dtrh.net](https://zild.dtrh.net) |
 
 <style>
+  table width: 100%;
   table tr:nth-child(odd) { background-color: #f2f2f2; }
   table tr:nth-child(even) { background-color: #e6e6e6; }
 </style>
