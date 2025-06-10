@@ -10,7 +10,7 @@ A collection of books either written, compiled or otherwise by “KBS” of [DtR
 
 ![Zild Cover](Images/zild-cover.png)
 
-* **Page Count:** 350 pages
+* **Page Count:** 267 pages
 * **Release Date:** April 26, 2025
 * **Formats:** Online • PDF • EPUB
 * **Genre:** Sci-Fi, Fiction
@@ -24,7 +24,7 @@ A collection of books either written, compiled or otherwise by “KBS” of [DtR
 
 ![Beyond Context](Images/bc-cover.jpg)
 
-* **Page Count:** 128 pages
+* **Page Count:** 161 pages
 * **Release Date:** May 2025
 * **Formats:** Online • PDF
 * **Genre:** Computers, AI, Non-Fiction
@@ -38,7 +38,7 @@ A collection of books either written, compiled or otherwise by “KBS” of [DtR
 
 ![Ashfeather Cover](Images/af-cover.png)
 
-* **Page Count:** 64 pages
+* **Page Count:** 25 pages
 * **Release Date:** May 28, 2025
 * **Formats:** Online • PDF
 * **Genre:** Fiction, Poetry
@@ -46,32 +46,7 @@ A collection of books either written, compiled or otherwise by “KBS” of [DtR
 * **Summary:**
   *Ashfeather* is a surreal, six-chapter poetic novella in which memory takes the form of a spiral-eyed bird. Through layered metaphor and dreamlike vignettes, it explores themes of loss, identity, and the power of storytelling. Each chapter unfolds like a journal entry—fragmented yet interwoven—inviting readers to decode hidden meanings beneath its lyrical surface.
 
----
-
-## ⚙️ Repository Structure
-
-```
-DtRH-Books/
-├── images/
-│   ├── zild-cover.jpg
-│   ├── beyondcontext-cover.jpg
-│   └── ashfeather-cover.jpg
-├── README.md
-└── (other assets — PDF, EPUB, etc.)
-```
-
----
-
-## 📖 Contributing
-
-Feel free to:
-
-* Report typos or update metadata via pull requests.
-* Submit enhanced summaries or reading guides.
-* Add translations and audio editions.
-
----
 
 ## 📝 License
 
-All works © 2025 Kevin “KBS” Bradley. Licensed under \[Your Chosen License].
+All works © 2025 Kevin “KBS” Bradley. Licensed under \[MIT\].
