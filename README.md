@@ -7,16 +7,18 @@ A collection of books either written, compiled or otherwise by “KBS” of [DtR
 ## 📚 Books
 
 ### Zild: Echoes Under Two Moons
-
+**STATUS; Draft**
 ![Zild Cover](Images/zild-cover.png)
 
 * **Page Count:** 267 pages
 * **Release Date:** April 26, 2025
-* **Formats:** Online • PDF • EPUB
+* **Formats:**
+  - [Online](https://zild.dtrh.net/Book)
+  - [PDF at Github.com]() | [PDF at DTRH.net]()
+  - [EPUB at Github.com]() | [EPUB at DTRH.net]()
 * **Genre:** Sci-Fi, Fiction
 * **Website:** [zild.dtrh.net](https://zild.dtrh.net)
 * **Summary:**
-  *Zild: Echoes Under Two Moons* is an 18-chapter sci-fi epic set on the alien world of Zild. When Earth falls, Spacy—a bio-machine historian—awakens on the ark ship and pieces together humanity’s lost legacy. Through journal entries, first contact dramas, and frontier survival, this novel experiments with AI-assisted long-form storytelling while weaving a moving tale of hope, memory, and new beginnings.
 
 ---
 
@@ -26,7 +28,7 @@ A collection of books either written, compiled or otherwise by “KBS” of [DtR
 
 * **Page Count:** 161 pages
 * **Release Date:** May 2025
-* **Formats:** Online • PDF
+* **Formats:** • PDF • EPUB
 * **Genre:** Computers, AI, Non-Fiction
 * **Website:** [beyondcontext.dtrh.net](https://beyondcontext.dtrh.net)
 * **Summary:**
