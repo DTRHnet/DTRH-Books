@@ -22,7 +22,7 @@ A collection of books either written, compiled or otherwise by “KBS” of [DtR
 
 ### Beyond Context: Navigating Limitations of LLMs
 
-![Beyond Context Cover](images/beyondcontext-cover.jpg)
+![Beyond Context Cover](images/bc-cover.jpg)
 
 * **Page Count:** 128 pages
 * **Release Date:** May 2025
@@ -36,7 +36,7 @@ A collection of books either written, compiled or otherwise by “KBS” of [DtR
 
 ### Ashfeather
 
-![Ashfeather Cover](images/ashfeather-cover.jpg)
+![Ashfeather Cover](images/af-cover.jpg)
 
 * **Page Count:** 64 pages
 * **Release Date:** May 28, 2025
