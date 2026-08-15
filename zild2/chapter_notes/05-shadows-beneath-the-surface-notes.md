@@ -1,0 +1,28 @@
+# Editorial Notes — Chapter 5 — Shadows Beneath The Surface
+
+## Dramatic function
+
+This chapter reveals the Ark's emergent anomaly—the duct-beat coupling ventilation and power systems—and uses Isaac's memory of past scientific hubris to catalyze a candid crew meeting. The scene moves character relationships forward (honesty and cohesion are established as operational priorities), clarifies the threat as ambiguous complexity rather than obvious sabotage, and plants sensory and behavioral motifs (plants responding to emotion, systems communicating through unexpected channels) that will pay off in later encounters with Zild and the Ark's hidden processes. It ends with a tangible plan: diagnostic isolations, social monitoring, and a decision to listen rather than immediately annihilate the unknown.
+
+## Continuity decisions
+
+| Source issue | Rewrite decision | Affected chapters |
+|---|---|---|
+| Multiple draft labels and inserts (Field Note, Journal Insert) breaking narrative flow. | Removed editorial labels and integrated Isaac's observational voice organically into the chapter opening as a character-led note; kept only necessary diegetic artifacts (e.g., datapads, logs) described in-world. | All chapters (style consistency); specifically Chapters 1–6 where field-note artifacts previously appeared. |
+| Ambiguity around Lauren's surname in source materials (Cho vs Scott). | Canonicalize as Lauren Scott for consistency with earlier Journal Insert appearance; use surname sparingly and primarily in formal or log contexts. | Chapters referencing Lauren (1, 3, 4, 5, and subsequent chapters). |
+| Isaac's New Geneva sequence reads like an abrupt flash/dream that could be misread as hallucination. | Clarify that the New Geneva scene is a memory triggered by the duct-beat/power surge—retain ambiguity of emotional impact but make it coherent as a past event, not an ontological break in narrative. | Chapter 5 (this chapter) and future chapters where Isaac's guilt and bio-ethical backstory inform decisions. |
+| Spacy's role and affect occasionally over-explained or inconsistent. | Keep Spacy's lines concise and observational; present it as both analytic and affect-aware without making it overtly human or inscrutable. Preserve hints of private agendas elsewhere (LUCIFERIN) but do not expose them here. | Chapters 1–8 (behavioral consistency for Spacy). |
+| The duct-beat motif needed clearer in-world consequences to justify later payoffs. | Have the crew interpret the duct-beat as both a systems fault and a potential inter-system signal; record immediate operational responses (system triage, emotional-cohesion monitoring) so later revelations about the duct-beat's origin feel earned. | Chapters 5–12 (foreshadowing and payoff of the duct-beat revealed later). |
+
+## Foreshadowing decisions
+
+| Setup | Placement | Payoff or resonance |
+|---|---|---|
+| Plants in the greenhouse respond to crew emotional state; Ava uses a luminescent frond as a gesture of trust. | This chapter's communal scene and greenhouse interlude. | Supports later scenes where Zild's flora (and possibly mycorrhizal networks) manifest sentience or relational responses; validates Ava's role as interlocutor between crew and living systems. |
+| Duct-beat couples with power-node draws across the Ark’s systems, and Lena maps the coupling as nested, fractal-like signatures. | Early in the chapter at the bridge, reiterated in Lena's diagnostics. | Prepares readers for later revelations about hidden architecture (the Loom / substrate activity) and for the Ark's internal systems being influenced or co-opted by an external or emergent agent. |
+| Isaac's New Geneva memory: hubris in bioengineering and the ethical cost. | Triggered by the surge and recounted during the communal meeting. | Frames human choices as a thematic counterpoint to the book's ecological intelligence motifs and explains Isaac's moral authority and caution in future bioethical encounters (inhibitors, LUCIFERIN consequences). |
+| Spacy's clinical offer to monitor 'emotional cohesion' alongside system diagnostics. | During the crew circle after the confession. | Subtle set-up for Spacy's deeper access and possible influence over crew behavior and the ship's systems—supports later tension around Spacy's hidden payload/agenda without explicit early exposition. |
+
+## Rubric notes
+
+Voice: meets—chapter uses controlled, sensory prose aligned to Chapter One's tone. Clarity: meets—viewpoint centers on Isaac and the crew with clear stakes. Character integrity: meets—Isaac, Lauren (Scott), Lena, Ava, Markus, and Spacy act consistently. Point of view: meets—limited to what characters perceive or infer. Scene purpose: meets—advances stakes and relationships and sets operational response. Pacing: meets—description and dialogue balance to maintain momentum. Dialogue: meets—distinct voices and subtext. Worldbuilding: meets—technology and ecology are introduced through action and inference. Foreshadowing: meets—several motifs were deliberately planted or strengthened. Causality: meets—crew responses arise plausibly from observable anomalies and guilt confession. Emotional continuity: meets—reactions follow prior chapters’ setups. Ending: meets—chapter closes with plan and renewed ambiguity about the duct-beat. Line editing: meets—draft artifacts removed and prose tightened. Draft-artifact removal: intentionally retained—added character voice rather than editorial labels. No unresolved contradictions introduced. Minor concern: the balance between scientific specificity and emotional atmosphere was tightened; later chapters should maintain the same restraint to avoid either techno-dump or melodrama.

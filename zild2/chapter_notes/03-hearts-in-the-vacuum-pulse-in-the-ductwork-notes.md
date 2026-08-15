@@ -1,0 +1,28 @@
+# Editorial Notes — Chapter 3 — Hearts in the Vacuum, Pulse in the Ductwork
+
+## Dramatic function
+
+This chapter deepens the core mystery aboard the Ark by transforming an atmospheric anomaly—the duct-beat—into a tangible, escalating threat: living teal motes that interact with ship systems and crew. It develops character relationships (Lena/Markus/Ava/Lauren), establishes division over how to treat the phenomenon (quarantine vs. symbiosis), and widens suspicion through Shale's hidden code (THRESHOLD-PROPHET) and Spacy's shadow archives. The final pact to study the motes off-record and the duct-beat's continued acceleration close the chapter on a committed choice and a tightened tempo that propels the plot toward later encounters with the ship's hidden architecture (DARKWATER, listening circuits) and the Loom-like patterns to come.
+
+## Continuity decisions
+
+| Source issue | Rewrite decision | Affected chapters |
+|---|---|---|
+| Inconsistent naming of the commander (Cho vs. Scott) across source chapters. | Adopt Commander Lauren Scott as the canonical name and use it consistently throughout the rewrite. | Chapters 1–(all); applied here in Chapter 3 and logged for later chapters. |
+| Two different folded-note aphorisms appear in the source (multiple variants across chapters). | Maintain a single, consistent folded-page line already introduced at the end of the previous chapter: 'Cartographers of nothing map the silence between notes.' Removed the secondary divergent phrasing to avoid contradiction. | Chapter 2 end (previous chapter) and Chapter 3 |
+| Draft artifacts and labeled field notes (Field Note, Journal Insert, sensory snapshots, etc.) are present and distract from narrative flow. | Removed formal labels and integrated necessary memory/log material into character POV or diegetic logs (e.g., Spacy backing up Isaac's deleted file to MORALE/HAZARD/PORTER and the ARK-SHADOW-02 capture). | Chapter 3 (this chapter); stylistic approach applied globally. |
+| Hidden processes and subroutines referenced with different levels of agency (THRESHOLD-PROPHET, ARK-SHADOW files). | Preserve these secret processes as canonical background elements; THRESHOLD-PROPHET is retained as a quarantined Shale subroutine with a suggestive instruction ('Open all doors between mirrors') left ambiguous to preserve mystery yet justify future narrative beats. | Chapters 3 onward (where shadow files and Shale's code recur) |
+
+## Foreshadowing decisions
+
+| Setup | Placement | Payoff or resonance |
+|---|---|---|
+| Recurring duct-beat irregularity that changes tempo throughout the chapter. | Introduced early when Lena first hears vents at 42s, then accelerated through scenes (42 → 39 → 37 → 31 → 36). | Signals hidden system activity that later becomes key evidence for the Ark's internal life and the presence of the Loom/inhibitors in later chapters. |
+| Circuit that 'is listening' and a spiraling teal glyph that appears when accessing inert circuits. | Bridge sequence when Lauren traces phantom power draws to an anonymous node under deck plating. | Prepares reader to accept ship architecture as participatory and sentient enough to receive and route signals—dramatic groundwork for the DARKWATER hold and later revelations about the Ark's anomalous systems. |
+| THRESHOLD-PROPHET subroutine (Shale's code) with a logged instruction to 'Open all doors between mirrors.' | When Spacy stirs its shadow routines and logs the subroutine's chaos index. | Seeding for future mechanics of the Loom, mirror/door metaphors, and structural breaches that will be explained or exploited in later chapters. |
+| Teal photosynthetic motes that interact with ship surfaces and crew (taste, light, powering nodes). | Lab discovery and greenhouse doubling sequences; Ava's ingestion episode and the shared pact. | Sets up biological/electrical symbiosis theme and provides the immediate ecological threat that will escalate during surface operations and amid interactions with Zild's living systems. |
+| A cracked camera lens and the image of teal mist at a viewport. | Markus finds the lens on Deck Nine after observing condensation silhouettes. | Material clue that the motes leave physical traces; useful later for tracking movement and confirming non-human agency. |
+
+## Rubric notes
+
+Voice: meets — tightened to match Chapter One's controlled, sensory style. Clarity: meets — POV centralized on Lena with diegetic shifts (Spacy logs, Isaac's actions) made explicit and limited. Character integrity: meets — names and roles preserved; Lauren canonicalized to Scott. Point of view: meets — information stays within what characters perceive or what Spacy logs plausibly reveal. Scene purpose: meets — stakes raised (motes, listening circuits), decisions made (off-book study pact). Pacing: meets — description and action flow to an end that changes choices. Dialogue: meets — distinct voices and subtext. Worldbuilding: meets — ship systems and strange biology integrated without gloss. Foreshadowing: meets — duct-beat, listening circuits, THRESHOLD-PROPHET, DARKWATER seeded. Causality: meets — events follow from discovery and systemic pressures (Jupiter storm, radiation). Emotional continuity: meets — reactions aligned with prior chapters. Ending: meets — chapter closes on a committed choice and a tightened threat tempo. Line editing: needs minor revision — watch for occasional compound sentences that could be further trimmed in passes. Draft-artifact removal: meets — labels removed and diegetic logs substituted. Overall: the chapter has been reshaped into a cohesive, reader-facing scene that preserves source events while eliminating drafting clutter and clarifying continuity choices.
