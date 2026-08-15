@@ -1,0 +1,22 @@
+# Zild3 Validation Report
+
+- Chapters: 17 zild3 / 17 zild2
+- 01-embers-beneath-an-ash-blue-sky.md: 2334 -> 2799 words (1.20x)
+- 02-launch-through-ash-and-void.md: 2066 -> 3030 words (1.47x)
+- 03-hearts-in-the-vacuum-pulse-in-the-ductwork.md: 1826 -> 2305 words (1.26x)
+- 04-the-quiet-before-the-storm.md: 1526 -> 1886 words (1.24x)
+- 05-shadows-beneath-the-surface.md: 1489 -> 2080 words (1.40x)
+- 06-groundfall-in-the-breathing-forest.md: 1354 -> 2251 words (1.66x)
+- 07-prime-pulse-under-neon-canopy.md: 1433 -> 1912 words (1.33x)
+- 08-echoes-of-the-inhibitors-edge.md: 1365 -> 2122 words (1.55x)
+- 09-the-return-to-the-ark.md: 1689 -> 2726 words (1.61x)
+- 10-predators-lullaby-under-two-moons.md: 1784 -> 2266 words (1.27x)
+- 11-the-loom-awakens.md: 1711 -> 2202 words (1.29x)
+- 12-the-hollow-dawn.md: 1621 -> 2660 words (1.64x)
+- 13-the-forest-eats-silence.md: 1607 -> 2272 words (1.41x)
+- 14-the-sundering.md: 1339 -> 2103 words (1.57x)
+- 15-the-last-stand-begins.md: 1614 -> 2376 words (1.47x)
+- 16-ashes-of-the-ark.md: 1268 -> 1674 words (1.32x)
+- 17-we-who-remember.md: 1710 -> 2070 words (1.21x)
+- Appendices: 10
+- RESULT: PASS
